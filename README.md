@@ -171,7 +171,7 @@ timeline
 
 ## 📦 Estrutura do Repositório
 
-📦 topico-eficiencia-processo-produtivo/
+📦 topico-eficiencia-processo-produtivo/ 
 │
 ├── 📁 business_understanding/
 │   ├── problema.md
