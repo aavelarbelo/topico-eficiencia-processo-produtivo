@@ -111,7 +111,7 @@ A metodologia utilizada segue princípios de análise de dados e engenharia de p
 
 ```mermaid
 timeline
-    title Evolução do Projeto — Eficiência Produtiva
+    title Evolução do Projeto — Eficiência do Processo Produtivo
 
     2025-11-15 : Início do projeto • Definição inicial da abordagem e objetivos gerais
     2025-11-18 : Estruturação inicial do GitHub • Criação das primeiras seções do README
