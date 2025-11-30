@@ -131,6 +131,17 @@ timeline
     2026-06-19 : Ajustes finais no dashboard e documentação • Preparação da apresentação
     2026-06-27 : Entrega e apresentação do projeto de Eficiência do Processo Produtivo
 
+---
+timeline
+    title Avanços do Projeto — Eficiência Produtiva (Nov 2025 – Jan 2026)
+
+    2025-11-15 : Início do projeto • Definição inicial da abordagem e objetivos gerais
+    2025-11-18 : Estruturação inicial do GitHub • Criação das primeiras seções do README
+    2025-11-19 : Definição oficial do tema do projeto • Eficiência do Processo Produtivo
+    2025-11-23 : Levantamento das necessidades • Escopo do projeto definido
+    2025-11-26 : Identificação dos dados e variáveis do processo produtivo
+    2025-11-30 : Organização do repositório • Estruturação do README técnico
+---
 
 ## 📂 Estrutura do Projeto
 
