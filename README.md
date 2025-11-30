@@ -245,4 +245,10 @@ timeline
 
 ---
 
-  
+📁 [business_understanding](./business_understanding/)
+📁 [dw_design](./dw_design/)
+📁 [etl](./etl/)
+📁 [sql](./sql/)
+📁 [python](./python/)
+
+---  
