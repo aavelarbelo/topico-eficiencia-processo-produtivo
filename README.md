@@ -84,22 +84,53 @@ A metodologia utilizada segue princípios de análise de dados e engenharia de p
 ✔️ Value Stream Mapping (VSM)
 
 ---
+## 📊 Progresso do Projeto
+
+| Data       | Atividade realizada                                                                                   | Status |
+|------------|--------------------------------------------------------------------------------------------------------|--------|
+| 2025-11-15 | Início da organização do projeto • Definição inicial da abordagem e objetivos gerais.                 | ✔️ Concluído |
+| 2025-11-18 | Estruturação inicial do GitHub • Criação das primeiras seções do README.                               | ✔️ Concluído |
+| 2026-01-15 | Definição oficial do tema do projeto (Eficiência do Processo Produtivo).                               | ✔️ Concluído |
+| 2026-01-16 | Levantamento das necessidades e escopo do projeto.                                                    | ✔️ Concluído |
+| 2026-01-17 | Identificação dos dados disponíveis e variáveis relevantes do processo produtivo.                     | ⏳ Em andamento |
+| 2026-01-19 | Criação do repositório no GitHub • Estruturação inicial do README.                                    | ⏳ Em andamento |
+| 2026-01-20 | Mapeamento do processo produtivo • Entendimento das etapas e fluxos.                                   | ⏳ Planejado |
+| 2026-01-27 | Definição dos KPIs industriais (tempo de ciclo, produtividade, paradas, retrabalho).                  | ⏳ Planejado |
+| 2026-02-03 | Construção do modelo dimensional (tabela fato + dimensões) • Primeira versão.                         | ⏳ Planejado |
+| 2026-02-06 | Ajustes no modelo dimensional com base no conteúdo de DW.                                             | ⏳ Planejado |
+| 2026-02-24 | Escrita das primeiras consultas SQL analíticas.                                                       | ⏳ Planejado |
+| 2026-03-03 | Análise exploratória (EDA) dos dados e validação dos KPIs.                                           | ⏳ Planejado |
+| 2026-03-10 | Otimização das queries SQL e comparação entre cenários.                                              | ⏳ Planejado |
+| 2026-03-24 | Consolidação dos insights • Primeira versão dos resultados.                                          | ⏳ Planejado |
+| 2026-05-16 | Sessões de Seminários • Ajuste final da análise e storytelling.                                      | ⏳ Planejado |
+| 2026-06-19 | Finalização do dashboard • Escrita da documentação técnica.                                          | ⏳ Planejado |
+| 2026-06-27 | Entrega do projeto e apresentação final.                                                              | ⏳ Planejado |
+
+---
 
 ## 📈 Progresso de Estudos
 
 timeline
     title Evolução do Projeto — Eficiência Produtiva
 
-    2025-01-15 : Mapeamento do processo • Levantamento dos dados brutos
-    2025-01-16 : Criação dos KPIs • Estruturação das planilhas e tabelas
-    2025-01-17 : Limpeza e preparação dos dados
-    2025-01-18 : Análise exploratória (EDA) • Identificação de gargalos
-    2025-01-19 : Cálculos de produtividade • Métricas por etapa
-    2025-01-20 : Comparação entre turnos • Desvios e variações
-    2025-01-21 : Propostas de otimização • Relatório parcial
-    2025-01-22 : Automação em Python • Scripts auxiliares
-    2025-01-23 : Dashboard Power BI • Visualização executiva
-    2025-01-24 : Relatório final + Recomendações
+    2026-01-06 : Retoma das aulas (BDAn/BI) • Revisão de conceitos de Data Warehouse e indicadores
+    2026-01-15 : Definição oficial do tema do projeto de Eficiência do Processo Produtivo
+    2026-01-19 : Criação do repositório no GitHub • Estruturação inicial do README
+
+    2026-01-20 : Mapeamento do processo produtivo • Identificação das entidades e variáveis
+    2026-01-27 : Definição dos KPIs industriais (tempo de ciclo, paradas, produtividade, retrabalho)
+    2026-02-03 : Primeira versão do modelo dimensional (tabela fato + dimensões)
+    2026-02-06 : Ajustes no modelo com base no conteúdo de DW • Validação com o enunciado da questão
+
+    2026-02-24 : Início do desenvolvimento prático orientado pelas aulas • Escrita das primeiras queries SQL
+    2026-03-03 : Análise exploratória dos dados (EDA) • Verificação de consistência dos indicadores
+    2026-03-10 : Otimização das consultas • Comparação de cenários de eficiência
+    2026-03-24 : Versão preliminar dos resultados • Discussão dos principais insights
+
+    2026-05-16 : Bloco de sessões de Seminários • Consolidação dos resultados e alinhamento final
+    2026-06-19 : Ajustes finais no dashboard e documentação • Preparação da apresentação
+    2026-06-27 : Entrega e apresentação do projeto de Eficiência do Processo Produtivo
+
 
 ## 📂 Estrutura do Projeto
 
