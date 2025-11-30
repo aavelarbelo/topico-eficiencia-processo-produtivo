@@ -60,28 +60,28 @@ A metodologia utilizada segue princípios de análise de dados e engenharia de p
 - ✔️ **Geração dos Insights:** relatórios, gráficos e dashboards, automação Python (aplicável?), interpretação dos resultados e storytelling.
 - ✔️ **Propostas de Melhoria:** propostas de otimização baseadas nos insights analisados.
 
-🧩 Etapas da Análise
+## 🧩 Etapas da Análise
 
-- Cada fase contém:
+### ✔️ Cada fase da análise contém:
+- **Problema definido**
+- **Dados utilizados**
+- **Scripts Python comentados**
+- **KPIs aplicados**
+- **Insights gerados**
+- **Sugestões de melhoria**
+- **Visualização dos resultados**
 
-✔️ Problema definido
-✔️ Dados utilizados
-✔️ Scripts Python comentados
-✔️ KPIs aplicados
-✔️ Insights
-✔️ Sugestões de melhoria
-✔️ Visualização dos resultados
+---
 
-- As análises podem incluir:
-
-✔️ Tempo médio por etapa
-✔️ Taxa de retrabalho
-✔️ Tempo de ciclo (cycle time)
-✔️ Gargalos e filas
-✔️ Produtividade por operador/máquina
-✔️ OEE (Overall Equipment Effectiveness)
-✔️ Lead time
-✔️ Value Stream Mapping (VSM)
+### ✔️ As análises podem incluir:
+- Tempo médio por etapa
+- Taxa de retrabalho
+- Tempo de ciclo (cycle time)
+- Gargalos e filas
+- Produtividade por operador/máquina
+- OEE (Overall Equipment Effectiveness)
+- Lead time
+- Value Stream Mapping (VSM)
 
 ---
 ## 📊 Progresso do Projeto
