@@ -109,31 +109,8 @@ A metodologia utilizada segue princípios de análise de dados e engenharia de p
 ---
 
 ## 📈 Progresso de Estudos
-
 timeline
     title Evolução do Projeto — Eficiência Produtiva
-
-    2026-01-06 : Retoma das aulas (BDAn/BI) • Revisão de conceitos de Data Warehouse e indicadores
-    2026-01-15 : Definição oficial do tema do projeto de Eficiência do Processo Produtivo
-    2026-01-19 : Criação do repositório no GitHub • Estruturação inicial do README
-
-    2026-01-20 : Mapeamento do processo produtivo • Identificação das entidades e variáveis
-    2026-01-27 : Definição dos KPIs industriais (tempo de ciclo, paradas, produtividade, retrabalho)
-    2026-02-03 : Primeira versão do modelo dimensional (tabela fato + dimensões)
-    2026-02-06 : Ajustes no modelo com base no conteúdo de DW • Validação com o enunciado da questão
-
-    2026-02-24 : Início do desenvolvimento prático orientado pelas aulas • Escrita das primeiras queries SQL
-    2026-03-03 : Análise exploratória dos dados (EDA) • Verificação de consistência dos indicadores
-    2026-03-10 : Otimização das consultas • Comparação de cenários de eficiência
-    2026-03-24 : Versão preliminar dos resultados • Discussão dos principais insights
-
-    2026-05-16 : Bloco de sessões de Seminários • Consolidação dos resultados e alinhamento final
-    2026-06-19 : Ajustes finais no dashboard e documentação • Preparação da apresentação
-    2026-06-27 : Entrega e apresentação do projeto de Eficiência do Processo Produtivo
-
----
-timeline
-    title Avanços do Projeto — Eficiência Produtiva (Nov 2025 – Jan 2026)
 
     2025-11-15 : Início do projeto • Definição inicial da abordagem e objetivos gerais
     2025-11-18 : Estruturação inicial do GitHub • Criação das primeiras seções do README
