@@ -33,7 +33,7 @@ O projeto também demonstra habilidades práticas em:
 - Python, SQL e Power BI 
 - Storytelling orientado a dados 
 
-Este repositório faz parte do meu portfólio técnico voltado para Business Analytics, Data Engineering e otimização operacional.
+Este repositório também faz parte do meu portfólio técnico voltado para Business Analytics, Data Engineering e otimização operacional: https://github.com/aavelarbelo/portfolio-business-data-andressaavelar
 
 ---
 
