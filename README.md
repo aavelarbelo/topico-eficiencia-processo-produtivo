@@ -1,15 +1,8 @@
 # 📊 Eficiência do Processo Produtivo – Projeto de Data Analytics & Otimização
 
-![Ferramentas](https://img.shields.io/badge/Ferramentas-Python%20%7C%20SQL%20%7C%20PowerBI-blue)
-![Área](https://img.shields.io/badge/Área-Otimização%20de%20Processos%20%7C%20Data%20Warehouse-orange)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen)
-
-![Projeto](https://img.shields.io/badge/Projeto-Eficiência%20Produtiva-grey)
-![DW](https://img.shields.io/badge/Data%20Warehouse-Modelagem%20Dimensional-purple)
-![Engenharia](https://img.shields.io/badge/Engenharia-Processos%20%26%20Otimização-blue)
-
-![Analytics](https://img.shields.io/badge/Analytics-EDA%20%7C%20KPIs%20%7C%20SQL-gold)
-
+![Ferramentas](https://img.shields.io/badge/Python-SQL-PowerBI-blue)
+![Áreas](https://img.shields.io/badge/Otimização-Data%20Warehouse-orange)
+![Status](https://img.shields.io/badge/Projeto-Ativo-brightgreen)
 
 ---
 
