@@ -45,12 +45,12 @@ Este repositório faz parte do meu portfólio técnico voltado para Business Ana
 
 ## 🚀 Objetivos do Projeto
 
-- Identificar gargalos e ineficiências no processo produtivo
-- Construir KPIs relevantes (OEE, Lead Time, Taxa de Retrabalho, Produtividade etc.)
-- Automatizar análises utilizando Python
-- Criar dashboards claros e direcionados à tomada de decisão
-- Gerar insights que apoiem melhorias de custo, tempo e qualidade
-- Demonstrar competências aplicáveis a vagas nas áreas de Data, Operações, Controle de Produção e Business Analytics
+- Identificar gargalos e ineficiências no processo produtivo.
+- Construir KPIs relevantes (OEE, Lead Time, Taxa de Retrabalho, Produtividade etc.).
+- Automatizar análises utilizando Python.
+- Criar dashboards claros e direcionados à tomada de decisão.
+- Gerar insights que apoiem melhorias de custo, tempo e qualidade.
+- Demonstrar competências aplicáveis a vagas nas áreas de Data, Operações, Controle de Produção e Business Analytics.
 
 ---
 
