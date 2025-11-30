@@ -58,30 +58,13 @@ Este repositório faz parte do meu portfólio técnico voltado para Business Ana
 
 A metodologia utilizada segue princípios de análise de dados e engenharia de processos:
 
-1. Definição do Problema
-- Levantamento das dores, metas e indicadores desejados.
-
-2. Coleta dos Dados
-- Extração via planilhas, banco de dados ou medições manuais.
-
-3. Processamento e Limpeza
-- Padronização, normalização e preparação dos dados.
-
-4. Análise Exploratória (EDA)
-- Identificação de padrões, desvios, tempos, perdas e tendências.
-
-5. Modelagem/Simulação (Opcional)
-- Cálculo de tempo médio do processo
-- Benchmarking
-- Cenários comparativos
-
-6. Geração da Solução
-- Relatórios
-- Gráficos e dashboards
-- Automação Python (aplicável?)
-
-7. Recomendações Operacionais
-- Propostas de otimização baseadas nos insights analisados.
+- ✔️ **Definição do Problema:** identificação das dores, metas e KPIs desejados.  
+- ✔️ **Coleta dos Dados:** extração via planilhas, sistemas internos e bancos de dados ou medições manuais.  
+- ✔️ **Processamento dos Dados:** limpeza, padronização, normalização e preparação dos dados.
+- ✔️ **Análise Exploratória (EDA):** identificação de padrões, gargalos e anomalias.  
+- ✔️ **Modelagem Analítica:** construção do modelo dimensional e KPIs, cálculo de tempo médio do processo, benchmarking, cenários comparativos.
+- ✔️ **Geração dos Insights:** relatórios, gráficos e dashboards, automação Python (aplicável?), interpretação dos resultados e storytelling.
+- ✔️ **Propostas de Melhoria:** propostas de otimização baseadas nos insights analisados.
 
 🧩 Etapas da Análise
 
