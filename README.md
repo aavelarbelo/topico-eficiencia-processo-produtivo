@@ -12,7 +12,7 @@
 
 ---
 
-## 📂 Sumário
+## 📑 Sumário
 - [Visão Geral](#-visão-geral)
 - [Objetivos do Projeto](#-objetivos-do-projeto)
 - [Metodologia](#-metodologia)
@@ -21,18 +21,23 @@
 - [Resultados Esperados](#-resultados-esperados)
 - [Estrutura de Pastas (Sugerida)](#-estrutura-de-pastas-sugerida)
 
+---
 
-Bem-vindo(a) ao projeto Eficiência do Processo Produtivo!
-Este repositório apresenta uma análise detalhada do desempenho operacional de um processo produtivo, identificando gargalos, desperdícios e oportunidades de melhoria por meio de dados.
+## 📘 Visão Geral
 
-O objetivo deste projeto é demonstrar habilidades em:
+Bem-vindo(a) ao projeto **Eficiência do Processo Produtivo**!
 
-- Análise de dados aplicada à produção
-- Indicadores de desempenho (KPIs) industriais
-- Otimização de processos
-- Python, SQL, Power BI
-- Automação e storytelling analítico
-- Tomada de decisão orientada por dados
+Este projeto está sendo desenvolvido no contexto das aulas de *DataWarehouse* da pós-graduação em **Big Data & Decision Making** e tem como objetivo integrar e aplicar os conhecimentos adquiridos ao longo do curso. 
+
+Dentro desse escopo, o trabalho foca na **análise da eficiência de um processo produtivo**, utilizando princípios de Business Analytics, Data Warehouse e Otimização de Processos. A proposta inclui a modelagem dimensional dos dados, análise de indicadores industriais (KPIs), criação de consultas analíticas em SQL e elaboração de visualizações que apoiem a tomada de decisão. 
+
+O projeto também demonstra habilidades práticas em: 
+- Estruturação de dados para análise 
+- Construção de modelos analíticos para Data Warehouse 
+- Indicadores de desempenho produtivo 
+- Otimização e melhoria contínua 
+- Python, SQL e Power BI 
+- Storytelling orientado a dados 
 
 Este repositório faz parte do meu portfólio técnico voltado para Business Analytics, Data Engineering e otimização operacional.
 
@@ -49,7 +54,78 @@ Este repositório faz parte do meu portfólio técnico voltado para Business Ana
 
 ---
 
+## 🔎 Metodologia
+
+A metodologia utilizada segue princípios de análise de dados e engenharia de processos:
+
+1. Definição do Problema
+- Levantamento das dores, metas e indicadores desejados.
+
+2. Coleta dos Dados
+- Extração via planilhas, banco de dados ou medições manuais.
+
+3. Processamento e Limpeza
+- Padronização, normalização e preparação dos dados.
+
+4. Análise Exploratória (EDA)
+- Identificação de padrões, desvios, tempos, perdas e tendências.
+
+5. Modelagem/Simulação (Opcional)
+- Cálculo de tempo médio do processo
+- Benchmarking
+- Cenários comparativos
+
+6. Geração da Solução
+- Relatórios
+- Gráficos e dashboards
+- Automação Python (aplicável?)
+
+7. Recomendações Operacionais
+- Propostas de otimização baseadas nos insights analisados.
+
+🧩 Etapas da Análise
+
+- Cada fase contém:
+
+✔️ Problema definido
+✔️ Dados utilizados
+✔️ Scripts Python comentados
+✔️ KPIs aplicados
+✔️ Insights
+✔️ Sugestões de melhoria
+✔️ Visualização dos resultados
+
+- As análises podem incluir:
+
+✔️ Tempo médio por etapa
+✔️ Taxa de retrabalho
+✔️ Tempo de ciclo (cycle time)
+✔️ Gargalos e filas
+✔️ Produtividade por operador/máquina
+✔️ OEE (Overall Equipment Effectiveness)
+✔️ Lead time
+✔️ Value Stream Mapping (VSM)
+
+---
+
+## 📈 Progresso de Estudos
+
+timeline
+    title Evolução do Projeto — Eficiência Produtiva
+
+    2025-01-15 : Mapeamento do processo • Levantamento dos dados brutos
+    2025-01-16 : Criação dos KPIs • Estruturação das planilhas e tabelas
+    2025-01-17 : Limpeza e preparação dos dados
+    2025-01-18 : Análise exploratória (EDA) • Identificação de gargalos
+    2025-01-19 : Cálculos de produtividade • Métricas por etapa
+    2025-01-20 : Comparação entre turnos • Desvios e variações
+    2025-01-21 : Propostas de otimização • Relatório parcial
+    2025-01-22 : Automação em Python • Scripts auxiliares
+    2025-01-23 : Dashboard Power BI • Visualização executiva
+    2025-01-24 : Relatório final + Recomendações
+
 ## 📂 Estrutura do Projeto
+
 ### 🔹 1. Dataset & Entendimento do Processo
 
 👉 Documentação com:
@@ -103,9 +179,22 @@ Este repositório faz parte do meu portfólio técnico voltado para Business Ana
 - Git & Github
 - Jupyter Notebook
 - Metodologias Lean e KAizen (conceitos aplicados)
+
+---
+🚀 Resultados Esperados
+
+- Redução do tempo total do processo
+- Aumento na capacidade produtiva
+- Eliminação de gargalos críticos
+- Redução de variabilidade e falhas
+- Fluxo mais previsível e estável
+- Tomada de decisão baseada em dados
+
+---
+
 ## 📦 Estrutura do Repositório
 
-📁 topico-eficiencia-processo-produtivo/
+📦 topico-eficiencia-processo-produtivo/
 │
 ├── 📁 business_understanding/
 │   ├── problema.md
