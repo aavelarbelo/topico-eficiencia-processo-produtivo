@@ -107,8 +107,7 @@ A metodologia utilizada segue princípios de análise de dados e engenharia de p
 | 2026-06-27 | Entrega do projeto e apresentação final.                                                              | ⏳ Planejado |
 
 ---
-
-## 📈 Progresso de Estudos
+**Evolução do Projeto Eficiência do Processo Produtiva**
 timeline
     title Evolução do Projeto — Eficiência Produtiva
 
@@ -118,6 +117,7 @@ timeline
     2025-11-23 : Levantamento das necessidades • Escopo do projeto definido
     2025-11-26 : Identificação dos dados e variáveis do processo produtivo
     2025-11-30 : Organização do repositório • Estruturação do README técnico
+
 ---
 
 ## 📂 Estrutura do Projeto
