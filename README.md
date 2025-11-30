@@ -89,21 +89,21 @@ A metodologia utilizada segue princípios de análise de dados e engenharia de p
 | Data       | Atividade realizada                                                                                   | Status |
 |------------|--------------------------------------------------------------------------------------------------------|--------|
 | 2025-11-15 | Início da organização do projeto • Definição inicial da abordagem e objetivos gerais.                 | ✔️ Concluído |
-| 2025-11-18 | Estruturação inicial do GitHub • Criação das primeiras seções do README.                               | ✔️ Concluído |
-| 2026-01-15 | Definição oficial do tema do projeto (Eficiência do Processo Produtivo).                               | ✔️ Concluído |
-| 2026-01-16 | Levantamento das necessidades e escopo do projeto.                                                    | ✔️ Concluído |
-| 2026-01-17 | Identificação dos dados disponíveis e variáveis relevantes do processo produtivo.                     | ⏳ Em andamento |
-| 2026-01-19 | Criação do repositório no GitHub • Estruturação inicial do README.                                    | ⏳ Em andamento |
-| 2026-01-20 | Mapeamento do processo produtivo • Entendimento das etapas e fluxos.                                   | ⏳ Planejado |
-| 2026-01-27 | Definição dos KPIs industriais (tempo de ciclo, produtividade, paradas, retrabalho).                  | ⏳ Planejado |
-| 2026-02-03 | Construção do modelo dimensional (tabela fato + dimensões) • Primeira versão.                         | ⏳ Planejado |
-| 2026-02-06 | Ajustes no modelo dimensional com base no conteúdo de DW.                                             | ⏳ Planejado |
-| 2026-02-24 | Escrita das primeiras consultas SQL analíticas.                                                       | ⏳ Planejado |
-| 2026-03-03 | Análise exploratória (EDA) dos dados e validação dos KPIs.                                           | ⏳ Planejado |
-| 2026-03-10 | Otimização das queries SQL e comparação entre cenários.                                              | ⏳ Planejado |
+| 2025-11-15 | Estruturação inicial do GitHub • Criação das primeiras seções do README.                               | ✔️ Concluído |
+| 2025-11-15 | Definição oficial do tema do projeto (Eficiência do Processo Produtivo).                               | ✔️ Concluído |
+| 2025-11-15 | Levantamento das necessidades e escopo do projeto.                                                    | ✔️ Concluído |
+| 2025-11-18 | Identificação dos dados disponíveis e variáveis relevantes do processo produtivo.                     | ✔️ Concluído |
+| 2025-11-18 | Criação do repositório no GitHub • Estruturação inicial do README.                                    | ✔️ Concluído |
+| 2025-11-30 | Mapeamento do processo produtivo • Entendimento das etapas e fluxos.                                   | ⏳ Em andamento |
+| 2025-12-02 | Definição dos KPIs industriais (tempo de ciclo, produtividade, paradas, retrabalho).                  | ⏳ Planejado |
+| 2026-01-06 | Construção do modelo dimensional (tabela fato + dimensões) • Primeira versão.                         | ⏳ Planejado |
+| 2026-01-09 | Ajustes no modelo dimensional com base no conteúdo de DW.                                             | ⏳ Planejado |
+| 2026-01-24 | Escrita das primeiras consultas SQL analíticas.                                                       | ⏳ Planejado |
+| 2026-02-03 | Análise exploratória (EDA) dos dados e validação dos KPIs.                                           | ⏳ Planejado |
+| 2026-02-10 | Otimização das queries SQL e comparação entre cenários.                                              | ⏳ Planejado |
 | 2026-03-24 | Consolidação dos insights • Primeira versão dos resultados.                                          | ⏳ Planejado |
-| 2026-05-16 | Sessões de Seminários • Ajuste final da análise e storytelling.                                      | ⏳ Planejado |
-| 2026-06-19 | Finalização do dashboard • Escrita da documentação técnica.                                          | ⏳ Planejado |
+| 2026-04-16 | Sessões de Seminários • Ajuste final da análise e storytelling.                                      | ⏳ Planejado |
+| 2026-05-19 | Finalização do dashboard • Escrita da documentação técnica.                                          | ⏳ Planejado |
 | 2026-06-27 | Entrega do projeto e apresentação final.                                                              | ⏳ Planejado |
 
 ---
