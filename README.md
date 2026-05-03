@@ -31,7 +31,7 @@ O projeto também demonstra habilidades práticas em:
 - Indicadores de desempenho produtivo 
 - Otimização e melhoria contínua 
 - Python, SQL e Power BI 
-- Storytelling orientado a dados 
+- Storytelling orientado a dados
 
 Este repositório também faz parte do meu portfólio técnico voltado para Business Analytics, Data Engineering e otimização operacional: https://github.com/aavelarbelo/portfolio-business-data-andressaavelar
 
